@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Srisai Bodduluri</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **RubyOnRails, Javascript, AWS, and React**
+- 🌱 I’m currently learning **Java, Javascript, AWS, and Angular**
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **boddulurisrisai99@gmail.com**
+
 
 - ⚡ Fun fact **I am a big fan of volleyball and love hitting the court whenever I get the chance!**
 
